@@ -46,7 +46,7 @@ header{
   justify-content: space-between;
 }
 .nav a{
-  padding: 20px;
+  padding: 10px;
   font-size: 1.5em;
   display: block;
 }

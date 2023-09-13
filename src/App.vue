@@ -6,8 +6,6 @@ import Containt from './components/Containt.vue'
 </script>
 
 <template>
-
-
 <Header></Header>
 <Containt></Containt>
 </template>

@@ -1,7 +1,7 @@
 {
   "name": "vue-vite-router",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
